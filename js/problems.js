@@ -81,15 +81,15 @@ let num1 = 5;
 let num2 = 12;
 
 let sum = num1 + num2;
-console.log(sum);
+console.log("Sum", sum);
 let difference = num1 - num2;
-console.log(difference);
+console.log("Difference", difference);
 let product = num1 * num2;
-console.log(product);
+console.log("Product", product);
 let quotient = num1 / num2;
-console.log(quotient);
+console.log("Quotient", quotient);
 let remainder = num1 % num2;
-console.log(remainder);
+console.log("Remainder", remainder);
 
 
 //Day 3 Problem 2
